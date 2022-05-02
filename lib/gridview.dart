@@ -22,7 +22,7 @@ class _PaginaInicialState extends State<PaginaInicial> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text("Listado de cuartos"),
+          title: const Text("Listado de cuartoss"),
         ),
         body: GridView.custom(
           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
